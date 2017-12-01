@@ -1,0 +1,28 @@
+{
+  "name": "react-template",
+  "version": "0.0.1",
+  "description": "basic react app to get started",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "0.9.5"
+  },
+  "dependencies": {
+    "react": "16.1.1",
+    "react-dom": "16.1.1",
+    "react-responsive-carousel": "^3.1.29",
+    "react-id-swiper": "^1.5.5",
+    "tiny-slider-react": "0.2.4"
+  },
+  "engines": {
+    "node": "8.1.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/#!/project/react-boilerplate"
+  },
+  "license": "MIT"
+}
